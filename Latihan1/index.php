@@ -17,7 +17,7 @@ function menghitungHari($jumlahHari){
         case "Friday":
             $translateHari = "jum'at";
             break;
-        case "aturday":
+        case "saturday":
             $translateHari = "sabtu";
             break;
         case "Sunday":
